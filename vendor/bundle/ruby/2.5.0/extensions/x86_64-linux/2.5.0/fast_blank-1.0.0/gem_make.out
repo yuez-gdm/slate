@@ -1,0 +1,15 @@
+current directory: /mnt/c/Projects/slate/vendor/bundle/ruby/2.5.0/gems/fast_blank-1.0.0/ext/fast_blank
+/usr/bin/ruby2.5 -I /usr/local/lib/site_ruby/2.5.0 -r ./siteconf20190705-2126-111qdmw.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Projects/slate/vendor/bundle/ruby/2.5.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Projects/slate/vendor/bundle/ruby/2.5.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR="
+compiling fast_blank.c
+linking shared-object fast_blank.so
+
+current directory: /mnt/c/Projects/slate/vendor/bundle/ruby/2.5.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fast_blank.so ./.gem.20190705-2126-f8oj2a
